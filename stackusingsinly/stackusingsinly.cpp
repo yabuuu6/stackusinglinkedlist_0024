@@ -75,4 +75,5 @@ int main() {
 		cout << "Enter your choice: ";
 		cin >> choice;
 		switch (choice) {
-		
+		case 1:
+			
